@@ -6,19 +6,19 @@ const CharactersSection = () => {
       name: 'Водитель',
       actor: 'Райан Гослинг',
       description: 'Безмолвный профессионал. Днём каскадёр, ночью — лучший водитель для ограблений.',
-      image: 'https://cdn.poehali.dev/projects/47f21244-fd67-4d31-b4cd-35a8cce9d106/files/f00bcd27-7304-4164-b896-5b534d2a63b9.jpg'
+      image: 'https://cdn.poehali.dev/projects/47f21244-fd67-4d31-b4cd-35a8cce9d106/files/4c5d2970-19ea-4488-8da2-ed9925d277a2.jpg'
     },
     {
       name: 'Ирен',
       actor: 'Кэри Маллиган',
       description: 'Соседка Водителя. Молодая мать, оказавшаяся в опасности из-за криминального прошлого мужа.',
-      image: 'https://cdn.poehali.dev/projects/47f21244-fd67-4d31-b4cd-35a8cce9d106/files/031311a3-7ca1-432b-9aaa-085ff85c0cb0.jpg'
+      image: 'https://cdn.poehali.dev/projects/47f21244-fd67-4d31-b4cd-35a8cce9d106/files/69ca4abe-3c3b-4d4b-ad8f-4eaf9f8d8c31.jpg'
     },
     {
       name: 'Шеннон',
       actor: 'Брайан Крэнстон',
       description: 'Владелец автомастерской и наставник Водителя. Пытается выбраться из долгов.',
-      image: 'https://cdn.poehali.dev/projects/47f21244-fd67-4d31-b4cd-35a8cce9d106/files/ec903678-29a5-46bd-9a0b-bfe8b4c3f02e.jpg'
+      image: 'https://cdn.poehali.dev/projects/47f21244-fd67-4d31-b4cd-35a8cce9d106/files/5e317e7a-1675-473e-9b4c-6072529eb4df.jpg'
     }
   ];
 
