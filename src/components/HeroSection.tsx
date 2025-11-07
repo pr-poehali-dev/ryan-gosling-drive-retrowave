@@ -11,7 +11,7 @@ const HeroSection = ({ onNavigate }: HeroSectionProps) => {
       <div 
         className="absolute inset-0 opacity-30"
         style={{
-          backgroundImage: 'url(https://cdn.poehali.dev/projects/47f21244-fd67-4d31-b4cd-35a8cce9d106/files/5e317e7a-1675-473e-9b4c-6072529eb4df.jpg)',
+          backgroundImage: 'url(https://cdn.poehali.dev/projects/47f21244-fd67-4d31-b4cd-35a8cce9d106/files/ec903678-29a5-46bd-9a0b-bfe8b4c3f02e.jpg)',
           backgroundSize: 'cover',
           backgroundPosition: 'center'
         }}
